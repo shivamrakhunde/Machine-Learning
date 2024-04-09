@@ -1,8 +1,9 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
 2021,MI,FT,Data Scientist,30400000,CLP,40038,CL,100,CL,L
 2021,MI,FT,BI Data Analyst,11000000,HUF,36259,HU,50,US,L
+2021,MI,FT,BI Data Analyst,11000000,HUF,36259,HU,50,US,L
 2020,MI,FT,Data Scientist,11000000,HUF,,HU,50,HU,L
-2021,MI,FT,ML Engineer,8500000,JPY,77364,JP,50,JP,S
+'2021',MI,FT,ML Engineer,8500000,JPY,77364,JP,50,JP,S
 2022,SE,FT,Lead Machine Learning Engineer,7500000,INR,95386,IN,50,IN,L
 2021,MI,FT,ML Engineer,7000000,JPY,63711,JP,50,JP,S
 2021,SE,FT,Data Science Manager,7000000,INR,94665,IN,50,IN,L
